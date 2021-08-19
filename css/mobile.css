@@ -1,0 +1,85 @@
+/* Utility Classes */
+.display-1 { font-size: 3rem; }
+.display-2 { font-size: 1.9rem; }
+.display-3 { font-size: 1.7rem; }
+
+/* Navbar */
+#navbar {
+  height: 100%;
+  text-align: center;
+  padding: 10px 0;
+}
+
+#navbar .logo {
+  float: none;
+}
+
+#navbar ul {
+  float: none;
+  padding-left: 30px;
+}
+
+/* Showcase */
+#showcase {
+  height: 100%;
+  padding: 90px 20px;
+}
+
+/* About */
+#about {
+  padding-bottom: 40px;
+  text-align: center;
+}
+
+#about  h2 {
+  padding: 40px 0;
+}
+
+#about .about-image {
+  float: none;
+  width: 100%;
+}
+
+#about .about-text {
+  float: none;
+  width: 100%;
+  padding: 10px;
+}
+
+/* Food */
+#food {
+  padding: 40px 0;
+  text-align: center;
+}
+
+#food h2 {
+  text-align: center!important;
+}
+
+#food .food-description {
+  float: none;
+  width: 100%;
+  padding: 10px 0;
+}
+
+#food .food-image {
+  float: none;
+  width: 100%;
+}
+
+#food .food-image img {
+  width: 100%;
+}
+
+/* Contact */
+#contact {
+  padding: 40px 0;
+}
+
+#contact h2 {
+  padding-bottom: 40px;
+}
+
+#contact form {
+  width: 90%;
+}
