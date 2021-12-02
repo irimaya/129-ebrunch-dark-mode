@@ -25,27 +25,6 @@
   padding: 90px 20px;
 }
 
-/* About */
-#about {
-  padding-bottom: 40px;
-  text-align: center;
-}
-
-#about  h2 {
-  padding: 40px 0;
-}
-
-#about .about-image {
-  float: none;
-  width: 100%;
-}
-
-#about .about-text {
-  float: none;
-  width: 100%;
-  padding: 10px;
-}
-
 /* Food */
 #food {
   padding: 40px 0;
@@ -67,8 +46,26 @@
   width: 100%;
 }
 
-#food .food-image img {
+
+/* About */
+#about {
+  padding-bottom: 40px;
+  text-align: center;
+}
+
+#about h2 {
+  padding: 40px 0;
+}
+
+#about .about-image {
+  float: none;
   width: 100%;
+}
+
+#about .about-text {
+  float: none;
+  width: 100%;
+  padding: 10px;
 }
 
 /* Contact */
